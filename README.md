@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xmatiasp
 - 👀 I’m interested in video games, board games and horror movies.
-- 🌱 I’m currently learning automation testing whit Cypress
+- 🌱 I’m currently learning automation testing with Cypress
 - 📫 How to reach me: https://www.linkedin.com/in/xmatiasp/
 
 <!---
